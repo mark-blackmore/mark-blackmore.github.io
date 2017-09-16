@@ -1,0 +1,29 @@
+name: "personal-website"
+output_dir: "."
+navbar: 
+  title: "Mark Blackmore"
+  right: 
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Contact"
+      menu:
+        - icon: fa-github
+          text: GitHub
+          href: https://github.com/mark-blackmore
+        - icon: fa-linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/markandrewblackmore/
+        - icon: fa-envelope
+          text: Mail
+          href: mailto:mblackmo@yahoo.com
+    - text: "Teaching Experience"
+      href: teaching.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    theme: journal
+
+      

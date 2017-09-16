@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+
+- _Name:_ Mark Blackmore
+- _Occupation:_ "retired student"
+- _Hobbies:_ Learning data science and trying to make sense of the world.
+
+![](figs/mark_profile.jpg)
+
