@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+urlcolor: blue
 ---
 
 [Coursera Data Science Specialization - Capstone Project](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
