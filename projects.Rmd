@@ -4,7 +4,7 @@ title: "Projects"
 
 [Coursera Data Science Specialization - Capstone Project](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
 
-[Practical Machine Learning - Course Project]()
+[Practical Machine Learning - Course Project](https://mark-blackmore.github.io/Practical-Machine-Learning/)
 
 [Coursera Developing Data Products - Projects](https://mark-blackmore.github.io/Developing-Data-Products/)
 
