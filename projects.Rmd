@@ -2,11 +2,15 @@
 title: "Projects"
 ---
 
-[Coursera Data Science Specialization](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
+[Coursera Data Science Capstone](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
 
 [Coursera Practical Machine Learning](https://mark-blackmore.github.io/Practical-Machine-Learning/)
 
 [Coursera Developing Data Products](https://mark-blackmore.github.io/Developing-Data-Products/)
 
 [Coursera Getting and Cleaning Data](https://mark-blackmore.github.io/Getting-Cleaning-Data-Project/)
+
+[Hadley's Intro to Data Analysis](https://mark-blackmore.github.io/Experiments/)
+
+
 
