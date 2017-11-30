@@ -3,15 +3,15 @@ title: "Projects"
 ---  
   
   
-## Shiny Apps
+### Shiny Apps
 [Predicting the next word in a string](https://mblackmo.shinyapps.io/ngram_match/)   
 
 [Disease Testing](https://mblackmo.shinyapps.io/Disease_Testing/)
 
-## edX
+### edX
 [Microsoft Professional Program in Data Science Capstone](https://mark-blackmore.github.io/Microsoft-Capstone)
 
-## Coursera
+### Coursera
 [Data Science Capstone](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
 
 [Practical Machine Learning](https://mark-blackmore.github.io/Practical-Machine-Learning/)
@@ -20,7 +20,7 @@ title: "Projects"
 
 [Getting and Cleaning Data](https://mark-blackmore.github.io/Getting-Cleaning-Data-Project/)
 
-## Etc.
+### Etc.
 [Hadley's Intro to Data Analysis](https://mark-blackmore.github.io/Experiments/)
 
 
