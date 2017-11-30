@@ -1,11 +1,13 @@
 ---
 title: "Projects"
----
-
-##
+---  
+  
+  
+## Shiny App
+[Predicting the next word in a string](https://mblackmo.shinyapps.io/ngram_match/) 
 
 ## edX
-[Microsoft Professional Program in Data Science Capstone](https://github.com/mark-blackmore/Microsoft-Capstone)
+[Microsoft Professional Program in Data Science Capstone](https://mark-blackmore.github.io/Microsoft-Capstone)
 
 ## Coursera
 [Data Science Capstone](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
