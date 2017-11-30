@@ -2,14 +2,21 @@
 title: "Projects"
 ---
 
-[Coursera Data Science Capstone](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
+##
 
-[Coursera Practical Machine Learning](https://mark-blackmore.github.io/Practical-Machine-Learning/)
+## edX
+[Microsoft Professional Program in Data Science Capstone](https://github.com/mark-blackmore/Microsoft-Capstone)
 
-[Coursera Developing Data Products](https://mark-blackmore.github.io/Developing-Data-Products/)
+## Coursera
+[Data Science Capstone](https://mark-blackmore.github.io/JHU-Data-Science-Capstone/)
 
-[Coursera Getting and Cleaning Data](https://mark-blackmore.github.io/Getting-Cleaning-Data-Project/)
+[Practical Machine Learning](https://mark-blackmore.github.io/Practical-Machine-Learning/)
 
+[Developing Data Products](https://mark-blackmore.github.io/Developing-Data-Products/)
+
+[Getting and Cleaning Data](https://mark-blackmore.github.io/Getting-Cleaning-Data-Project/)
+
+## Etc.
 [Hadley's Intro to Data Analysis](https://mark-blackmore.github.io/Experiments/)
 
 
