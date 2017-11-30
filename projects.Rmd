@@ -3,8 +3,10 @@ title: "Projects"
 ---  
   
   
-## Shiny App
-[Predicting the next word in a string](https://mblackmo.shinyapps.io/ngram_match/) 
+## Shiny Apps
+[Predicting the next word in a string](https://mblackmo.shinyapps.io/ngram_match/)   
+
+[Disease Testing](https://mblackmo.shinyapps.io/Disease_Testing/)
 
 ## edX
 [Microsoft Professional Program in Data Science Capstone](https://mark-blackmore.github.io/Microsoft-Capstone)
