@@ -7,6 +7,10 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Projects"
+      href: projects.html      
     - text: "Contact"
       menu:
         - icon: fa-github
@@ -18,10 +22,7 @@ navbar:
         - icon: fa-envelope
           text: Mail
           href: mailto:mblackmo@yahoo.com
-    - text: "Teaching Experience"
-      href: teaching.html
-    - text: "Projects"
-      href: projects.html
+
 output:
   html_document:
     theme: flatly

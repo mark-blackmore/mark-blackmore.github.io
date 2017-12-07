@@ -15,9 +15,10 @@ Using course designs and materials created by others, my TA's and I applied a si
 
 Our research found that it was outside, life issues that were getting in the way of student success. Fortunately, the university has many programs to help our students with theses issues such as tutors, study skills programs, student counseling, food bank, temporary financial assistance, etc.  
 
-If a student truly had a learning issue we arranged tutoring, but this was rarely the case. More often we directed students to other university resources. We might also extend an assignment deadline, and follow up. We let the students know that our goals were their well-being and academic succes.
+If a student truly had a learning issue we arranged tutoring, but this was rarely the case. More often we directed students to other university resources. We might also extend an assignment deadline, and follow up. We let the students know that our goals were their well-being and academic succes. We added these goals to the course syllabus and reinforeced these goals at each class meeting.
 
-Later, we designed into the course a weekly in classs quiz and we stated in the syllabus that we would request a meeting with any student scoring less than 80% on the quiz or any assignment.  We were trying to catch problems early.
+Later, we added a weekly in classs quiz and we stated in the syllabus that we would request a meeting with any student scoring less than 80% on the quiz or any assignment.  We were trying to catch problems early.
 
 As a result of these steps, _passing rates for our courses exceeding 95%._ We'd cut the failure rate by a factor of five to ten.  These changes were fully incorporated into a new course that I co-designed, Business Statistics.
 
+My philosophy is that almost anyone can learn and practice statistics with proper guidance and support.  
