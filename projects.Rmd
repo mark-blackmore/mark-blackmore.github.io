@@ -23,5 +23,11 @@ title: "Projects"
 ### ed-cetera
 [Hadley's Intro to Data Analysis](https://mark-blackmore.github.io/Experiments/)
 
+### Reading
+[Learning Git & GitHub](http://happygitwithr.com/big-picture.html)  
+[Making Websites with R Markown](http://nickstrayer.me/RMarkdown_Sites_tutorial/)  
+[Tidy Text Mining with R](http://tidytextmining.com/tidytext.html)  
+
+
 
 
