@@ -3,7 +3,7 @@ title: "About Me"
 ---
 
 - **Name:**       Mark Blackmore
-- **Occupation:** "retired"
+- **Occupation:** Retired
 - **Hobbies:**    Learning data science and trying to make sense of the world.
 
 ![](figs/mark_profile.jpg)
