@@ -3,7 +3,7 @@ title: "About Me"
 ---
 
 - **Name:**       Mark Blackmore
-- **Occupation:** Retired
+- **Occupation:** Retired. Formerly, university instructor and investment banker.
 - **Hobbies:**    Learning data science and trying to make sense of the world.
 
 ![](figs/mark_profile.jpg)
