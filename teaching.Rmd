@@ -1,3 +1,13 @@
 ---
 title: "Teaching Experince"
 ---
+
+### [Teaching Philosophy](teaching_philosophy.html)
+
+### Courses Taught
+
+* Linear Algebra
+* Introduction to Probability & Statistics I & II
+* Statistics for Engineers & Scientists
+* Business Statistics
+* Financial Mathematics I & II
