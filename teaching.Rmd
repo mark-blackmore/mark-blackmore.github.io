@@ -4,10 +4,12 @@ title: "Teaching"
 
 ### [Teaching Philosophy](teaching_philosophy.html)
 
+### [Student Feedback](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1618630)
+
 ### Courses Taught
 
 * Linear Algebra
 * Introduction to Probability & Statistics I & II
 * Statistics for Engineers & Scientists
-* Business Statistics
+* [Business Statistics](stat_241_results.html)
 * Financial Mathematics I & II

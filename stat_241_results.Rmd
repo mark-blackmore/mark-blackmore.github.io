@@ -1,0 +1,24 @@
+---
+title: "Stat 241: Business Statistics - Results"
+author: "Instructor: Mark Blackmore"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r results_table, echo=FALSE}
+suppressPackageStartupMessages(
+  library(tidyverse))
+
+stat241 <- data_frame(term = c("Summer 2015", "Fall 2015 A01", "Fall 2015 001",
+                                "Winter 2016", "Spring 2016", "Summer 2016",
+                                "Fall 2016 A01", "Fall 2016 002", "Total"),
+                      pass = c(24, 86, 49, 89, 101, 27, 79, 48, 503),
+                      fail = c(0, 1, 1, 1, 3, 1, 5, 2, 15))
+
+stat241 <- stat241 %>% mutate(enrolled = pass+fail, pass_pct =round(100*pass/enrolled,2))
+
+knitr::kable(stat241)
+```
