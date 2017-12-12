@@ -12,4 +12,5 @@ title: "Teaching"
 * Introduction to Probability & Statistics I & II
 * Statistics for Engineers & Scientists
 * [Business Statistics](stat_241_results.html)
+* [Business Finance](ba_303_results.html)
 * Financial Mathematics I & II

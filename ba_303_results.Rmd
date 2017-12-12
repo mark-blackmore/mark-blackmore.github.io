@@ -1,0 +1,24 @@
+---
+title: 'BA 303: Business Finance - Results'
+author: "Mark Blackmore"
+date: "December 12, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r results_table, echo=FALSE}
+suppressPackageStartupMessages(
+  library(tidyverse))
+
+ba303 <- data_frame(term = c("Summer 2016", "Fall 2016", "Total"),
+                      pass = c(61, 55, 116),
+                      fail = c(0, 3, 3))
+
+ba303 <- ba303 %>% mutate(enrolled = pass+fail, pass_pct =round(100*pass/enrolled,2))
+
+knitr::kable(ba303)
+```
