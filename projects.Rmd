@@ -17,6 +17,9 @@ title: "Projects"
 
 [Getting and Cleaning Data](https://mark-blackmore.github.io/Getting-Cleaning-Data-Project/)
 
+### DataCamp
+[Text Mining: Bag of Words](https://mark-blackmore.github.io/datacamp_text_mining/)
+
 ### edX
 [Microsoft Professional Program in Data Science Capstone](https://mark-blackmore.github.io/Microsoft-Capstone)
 
