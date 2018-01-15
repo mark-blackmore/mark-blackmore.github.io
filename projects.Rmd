@@ -18,7 +18,8 @@ title: "Projects"
 [Getting and Cleaning Data](https://mark-blackmore.github.io/Getting-Cleaning-Data-Project/)
 
 ### DataCamp
-[Text Mining: Bag of Words](https://mark-blackmore.github.io/datacamp_text_mining/)
+[Text Mining: Bag of Words](https://mark-blackmore.github.io/datacamp_text_mining/)  
+[Writing Functions in R](https://github.com/mark-blackmore/datacamp_writing_functions_in_r)
 
 ### edX
 [Microsoft Professional Program in Data Science Capstone](https://mark-blackmore.github.io/Microsoft-Capstone)
