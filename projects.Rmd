@@ -18,8 +18,11 @@ title: "Projects"
 [Getting and Cleaning Data](https://mark-blackmore.github.io/Getting-Cleaning-Data-Project/)
 
 ### DataCamp
+[Sentiment Analysis in R: The Tidy Way](https://mark-blackmore.github.io/datacamp_sentiment_analysis_tidy/)
+
 [Text Mining: Bag of Words](https://mark-blackmore.github.io/datacamp_text_mining/)  
-[Writing Functions in R](https://mark-blackmore.github.io/datacamp_writing_functions_in_r/)
+
+[Writing Functions in R](https://mark-blackmore.github.io/datacamp_writing_functions_in_r/)  
 
 ### edX
 [Microsoft Professional Program in Data Science Capstone](https://mark-blackmore.github.io/Microsoft-Capstone)
